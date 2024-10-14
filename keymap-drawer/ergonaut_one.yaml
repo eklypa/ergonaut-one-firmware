@@ -1,12 +1,12 @@
 layers:
   default:
   - {t: ']', h: Gui}
-  - S
+  - Q
   - W
   - E
   - R
   - T
-  - Y
+  - X
   - U
   - I
   - O

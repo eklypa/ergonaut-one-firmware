@@ -130,16 +130,16 @@ layers:
   - {t: ▽, type: trans}
   adjust:
   - Boot
+  - Out USB
+  - Out BLE
+  - OUT TOG
   - ''
   - ''
   - ''
   - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
+  - OUT TOG
+  - Out BLE
+  - Out USB
   - Boot
   - BT CLR
   - BT 1
